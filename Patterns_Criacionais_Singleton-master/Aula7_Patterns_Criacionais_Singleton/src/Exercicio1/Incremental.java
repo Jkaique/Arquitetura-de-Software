@@ -1,6 +1,6 @@
 package Exercicio1;
 
-//* João Victor Bonfim Rocha 816118224
+
 
 public class Incremental {
 

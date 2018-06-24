@@ -1,6 +1,5 @@
 package Exercicio2;
 
-//* João Victor Bonfim Rocha 816118224
 
 import java.util.ArrayList;
 import java.util.Collections;

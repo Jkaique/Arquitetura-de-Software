@@ -1,6 +1,5 @@
 package Exercicio2;
 
-//* Jo„o Victor Bonfim Rocha 816118224
 
 enum Suit {
 	ESPADAS, COPAS, OUROS, DIAMANTES
@@ -27,7 +26,7 @@ public class Card {
 			System.out.print("Rei");
 			break;
 		case 14:
-			System.out.print("¡s");
+			System.out.print("√Ås");
 			break;
 		default:
 			System.out.print(number);
